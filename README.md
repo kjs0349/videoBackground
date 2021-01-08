@@ -1,5 +1,6 @@
 # videoBackground
  
+![VideoBackground](https://user-images.githubusercontent.com/61913417/103990978-676cce80-51d5-11eb-967d-097fecc0e3b8.gif)
 우선 완성 화면입니다.
 보시다시피 배경을 video로 놓고 그 위에 contents들을 넣어봤습니다!
 
